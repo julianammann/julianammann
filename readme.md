@@ -12,8 +12,8 @@ I'm a passionate and creative developer who enjoys coding and building software.
 
 ## 📫 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/julian-a-141088a1/)
-- [Twitter](https://twitter.com/ja_mmnn)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-a-141088a1/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ja_mmnn)
 
 ## 📊 GitHub Stats
 
