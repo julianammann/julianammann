@@ -14,7 +14,7 @@ I'm a passionate and creative developer who enjoys coding and building software.
 
 ![Your GitHub Stats](https://github-readme-stats-pearl-beta.vercel.app/api?username=julianammann&show_icons=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats-pearl-beta.vercel.app/api/top-langs/?username=julianammann)]
+![Top Langs](https://github-readme-stats-pearl-beta.vercel.app/api/top-langs/?username=julianammann)
 
 
 Feel free to explore my repositories and get in touch. I'm always open to collaboration and learning from others. 😊
