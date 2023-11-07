@@ -17,6 +17,6 @@ I'm a passionate and creative developer who enjoys coding and building software.
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=julianammann&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=julianammann&show_icons=true&count_private=true)
 
 Feel free to explore my repositories and get in touch. I'm always open to collaboration and learning from others. 😊
