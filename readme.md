@@ -10,13 +10,16 @@ I'm a passionate and creative developer who enjoys coding and building software.
 - Version Control: Git
 - Other Tools: Visual Studio Code, GitHub, Docker, Terraform, AWS, Azure
 
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats-pearl-beta.vercel.app/api?username=julianammann&show_icons=true&include_all_commits=true)
+
+[![Top Langs](https://github-readme-stats-pearl-beta.vercel.app/api/top-langs/?username=julianammann)](https://github.com/anuraghazra/github-readme-stats)
+
+
+Feel free to explore my repositories and get in touch. I'm always open to collaboration and learning from others. 😊
+
 ## 📫 Contact
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-a-141088a1/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ja_mmnn)
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=julianammann&show_icons=true&count_private=true)
-
-Feel free to explore my repositories and get in touch. I'm always open to collaboration and learning from others. 😊
