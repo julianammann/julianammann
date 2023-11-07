@@ -6,7 +6,7 @@ I'm a passionate and creative developer who enjoys coding and building software.
 
 - Languages: Ruby, TypeScript, JavaScript, HTML and CSS
 - Frameworks: Rails, Vue, Node.js
-- Databases: MongoDB, MySQL
+- Databases: PostgreSQL, MongoDB, MySQL
 - Version Control: Git
 - Other Tools: Visual Studio Code, GitHub, Docker, Terraform, AWS, Azure
 
